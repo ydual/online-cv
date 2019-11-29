@@ -17,12 +17,16 @@
   {% endif %}
 
   {% for project in projects %}
-    <div class="item">
+  <div class="item">
+
+    <div class="meta">
+
       <div class="upper-row">
         <h3 class="job-title">{{ project.role }}</h3>
         <div class="time">{{ project.time }}</div>
       </div><!--//upper-row-->
-      
+     <!--//meta-->
+
     {% if project.details %}
     <div class="details">
       {{ project.details | markdownify }}
