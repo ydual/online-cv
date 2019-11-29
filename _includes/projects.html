@@ -10,12 +10,6 @@
     {{ projects.title }}
   </h2>
 
-  {% if projects.intro %}
-  <div class="intro">
-      <p>{{ projects.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
-
   {% for project in projects %}
   <div class="item">
 
@@ -25,7 +19,7 @@
         <h3 class="job-title">{{ project.role }}</h3>
         <div class="time">{{ project.time }}</div>
       </div><!--//upper-row-->
-     <!--//meta-->
+     </div><!--//meta-->
 
     {% if project.details %}
     <div class="details">
