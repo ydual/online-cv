@@ -16,17 +16,16 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in projects.assignments %}
+  {% for project in projects %}
     <div class="item">
-
       <div class="upper-row">
         <h3 class="job-title">{{ project.role }}</h3>
         <div class="time">{{ project.time }}</div>
       </div><!--//upper-row-->
       
-    {% if experience.details %}
+    {% if project.details %}
     <div class="details">
-      {{ experience.details | markdownify }}
+      {{ project.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
