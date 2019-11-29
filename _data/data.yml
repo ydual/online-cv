@@ -82,36 +82,34 @@ projects:
           - Extended the following features: Thin Lens, Spotlight, Image Texture, Bilateral Filter, Disney BRDF and Homogeneous Participating Media
           - Link: [Project Page](https://ydual.github.io/Nori2-Final-Project/)
           
-    - role: Velocity-Preserving Trajectory Simplifications 
-      time: Fall 2017 & Fall 2018
-      company: Research Assistant in HKUST  
+    - role: Auto-drawing Machine 
+      time: 2019.02 - 2019.05 
       details: |
-          Supervisor: Professor Raymond Chi-Wing Wong  
-          Submitted to VLDB2019, Co-First Author
-          - Designed a novel algorithm to simplify a trajectory such that the number of points after simplification is minimized under the constraint that the velocity-based error does not exceed a given tolerance.  
-          - Link: [Paper](https://wangguanzhi.github.io/VVPTS.pdf)
+          - Course Project for ELEC3300: Introduction to Embedded Systems
+          - Built an outdrawing machine which can operate in 3 modes Drawing from an image pre-stored in the SD card; Drawing by directly controlled through a touch screen; Drawing by controlled from a mobile phone via Bluetooth
+          - Link: [Project Page](https://ydual.github.io/ELEC3300-Group50/)
 
-projects:
-    - role: Computer Graphics Course Project
-      time: 2018.09 - 2018.12
-      details: |
-            - Implemented a simple render based on the Nori framework
-            - Extended the following features: Thin Lens, Spotlight, Image Texture, Bilateral Filter, Disney BRDF and Homogeneous Participating Media
-            - Link: [Project Page](https://ydual.github.io/Nori2-Final-Project/)
+# projects:
+#     - role: Computer Graphics Course Project
+#       time: 2018.09 - 2018.12
+#       details: |
+#             - Implemented a simple render based on the Nori framework
+#             - Extended the following features: Thin Lens, Spotlight, Image Texture, Bilateral Filter, Disney BRDF and Homogeneous Participating Media
+#             - Link: [Project Page](https://ydual.github.io/Nori2-Final-Project/)
             
-     - role: Auto-drawing Machine
-      time: 2019.02 - 2019.05
-      details: |
-            - Course Project for ELEC3300: Introduction to Embedded Systems
-            - Built an outdrawing machine which can operate in 3 modes Drawing from an image pre-stored in the SD card; Drawing by directly controlled through a touch screen; Drawing by controlled from a mobile phone via Bluetooth
-            - Link: [Project Page](https://ydual.github.io/ELEC3300-Group50/)
+#      - role: Auto-drawing Machine
+#       time: 2019.02 - 2019.05
+#       details: |
+#             - Course Project for ELEC3300: Introduction to Embedded Systems
+#             - Built an outdrawing machine which can operate in 3 modes Drawing from an image pre-stored in the SD card; Drawing by directly controlled through a touch screen; Drawing by controlled from a mobile phone via Bluetooth
+#             - Link: [Project Page](https://ydual.github.io/ELEC3300-Group50/)
             
-   - role: Auto-drawing Machine
-     time: 2019.02 - 2019.05
-     details: |
-        - Course Project for ELEC3300: Introduction to Embedded Systems
-        - Built an outdrawing machine which can operate in 3 modes Drawing from an image pre-stored in the SD card; Drawing by directly controlled through a touch screen; Drawing by controlled from a mobile phone via Bluetooth
-        - Link: [Project Page](https://ydual.github.io/ELEC3300-Group50/)
+#    - role: Auto-drawing Machine
+#      time: 2019.02 - 2019.05
+#      details: |
+#         - Course Project for ELEC3300: Introduction to Embedded Systems
+#         - Built an outdrawing machine which can operate in 3 modes Drawing from an image pre-stored in the SD card; Drawing by directly controlled through a touch screen; Drawing by controlled from a mobile phone via Bluetooth
+#         - Link: [Project Page](https://ydual.github.io/ELEC3300-Group50/)
 
 # publications:
 #     title: Publications
