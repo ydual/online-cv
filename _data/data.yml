@@ -88,7 +88,7 @@ projects:
       time: 2019.02 - 2019.05 
       details: |
           - Course Project for ELEC3300: Introduction to Embedded Systems
-          - Built an outdrawing machine which can operate in 3 modes Drawing from an image pre-stored in the SD card; Drawing by directly controlled through a touch screen; Drawing by controlled from a mobile phone via Bluetooth
+          - Built an outdrawing machine which can operate in 3 modes: Drawing from an image pre-stored in the SD card; Drawing by directly controlled through a touch screen; Drawing by controlled from a mobile phone via Bluetooth
           - Link: [Project Page](https://ydual.github.io/ELEC3300-Group50/)
 
 # publications:
