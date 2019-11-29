@@ -75,7 +75,7 @@ experiences:
           - Link: [Project Page](https://ydual.github.io/Animal_Pose_Estimation/) and [Paper](https://github.com/ydual/online-cv/blob/master/A_Parametric_Approach_for_Generating_and_Estimating_3D_Quadruped_Poses_compressed.pdf)
           
 
-projects:
+experiences:
     - role: Animal Pose Estimation in Videos
       time: 2019.02 - Present 
       company: Research Assistant in HKUST
