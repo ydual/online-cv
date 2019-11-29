@@ -76,14 +76,14 @@ experiences:
           
 
 projects:
-    role: Computer Graphics Course Project (Nori 2)
+    - role: Computer Graphics Course Project (Nori 2)
     time: 2018.09 - 2018.12
     details: |
             - Implemented a simple render based on the Nori framework
             - Extended the following features: Thin Lens, Spotlight, Image Texture, Bilateral Filter, Disney BRDF and Homogeneous Participating Media
             - Link: [Project Page](https://ydual.github.io/Nori2-Final-Project/)
             
-    role: Auto-drawing Machine
+   - role: Auto-drawing Machine
     time: 2019.02 - 2019.05
     details: |
         - Course Project for ELEC3300: Introduction to Embedded Systems
