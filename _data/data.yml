@@ -75,13 +75,12 @@ experiences:
           - Link: [Project Page](https://ydual.github.io/Animal_Pose_Estimation/) and [Paper](https://github.com/ydual/online-cv/blob/master/A_Parametric_Approach_for_Generating_and_Estimating_3D_Quadruped_Poses_compressed.pdf)
 
 projects:
-    - role: Drowsiness Detection from Video Recordings
-      time: Summer 2018
-      company: Research Assistant in MIT  
+    - role: Computer Graphics Course Project
+      time: 2018.09 - 2018.12  
       details: |
-          Supervisor: Professor Thomas Heldt  
-          - Proposed a facial landmark based method to extract blink duration and to quantify drowsiness scale from video recordings obtained from consumer-grade electronic devices.
-          - Observed significant intra-subject variation in blink duration with an increase in mean blink duration and associated standard deviation as a function of self-reported drowsiness level.
+          - Implemented a simple render based on the Nori framework
+          - Extended the following features: Thin Lens, Spotlight, Image Texture, Bilateral Filter, Disney BRDF and Homogeneous Participating Media
+          - Link: [Project Page](https://ydual.github.io/Nori2-Final-Project/)
           
     - role: Velocity-Preserving Trajectory Simplifications 
       time: Fall 2017 & Fall 2018
