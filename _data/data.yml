@@ -72,31 +72,23 @@ experiences:
           - Developed a parametric approach for generating a massive synthetic dataset for quadrupeds 
           - Proposed two novel network architectures for 3D animal pose estimation
           - Achieved satisfying results for both public annotated dataset and self-labeled data
-          - Link: [Project Page](https://ydual.github.io/Animal_Pose_Estimation/) [Paper](https://github.com/ydual/online-cv/blob/master/A_Parametric_Approach_for_Generating_and_Estimating_3D_Quadruped_Poses_compressed.pdf)
+          - Link: [Project Page](https://ydual.github.io/Animal_Pose_Estimation/) and [Paper](https://github.com/ydual/online-cv/blob/master/A_Parametric_Approach_for_Generating_and_Estimating_3D_Quadruped_Poses_compressed.pdf)
           
 
 projects:
-    title: Projects
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - role: Computer Graphics Course Project (Nori 2)
+      time: 2018.09 - 2018.12
+      details: |
+            - Implemented a simple render based on the Nori framework
+            - Extended the following features: Thin Lens, Spotlight, Image Texture, Bilateral Filter, Disney BRDF and Homogeneous Participating Media
+            - Link: [Project Page](https://ydual.github.io/Nori2-Final-Project/)
+            
+    - role: Auto-drawing Machine
+    time: 2019.02 - 2019.05
+    details: |
+        - Course Project for ELEC3300: Introduction to Embedded Systems
+        - Built an outdrawing machine which can operate in 3 modes Drawing from an image pre-stored in the SD card; Drawing by directly controlled through a touch screen; Drawing by controlled from a mobile phone via Bluetooth
+        - Link: [Project Page](https://ydual.github.io/ELEC3300-Group50/)
 
 # publications:
 #     title: Publications
