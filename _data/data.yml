@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: DU Yinwei
-    tagline: 4th year Computer Engineering student @ HKUST
+    tagline: Final year student @ HKUST
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,35 +47,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a final year Computer Engineering student at Hong Kong University of Science and Technology
+      with a GPA of 4.105/4.3. I went on an one-semester exchange at Swiss Federal Institute of Technology 
+      in Zurich, where I achieved a TGA of 5.34/6.
+      
+      My research interests lies in computer vision and computer graphics.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: BEng in Computer Engineering
+      university: Hong Kong University of Science and Technology, Hong Kong
+      time: 2016.09-present
+
+    - degree: Exchange
+      university: Swiss Federal Institute of Technology in Zurich, Switzerland 
+      time: 2018.09 - 2019.01
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -167,23 +153,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Pytorch
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: C & C++
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: MATLAB
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Verilog
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
