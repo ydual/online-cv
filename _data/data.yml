@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: DU Yinwei
     tagline: Final year student @ HKUST
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ydual@connect.ust.hk
