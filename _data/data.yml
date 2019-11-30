@@ -70,6 +70,7 @@ experiences:
       company: Research Assistant in HKUST
       details: |
         Supervisors: Professors Chi-Keung Tang and Yu-Wing Tai
+
         Submitted to CVPR2020, Co-First Author
           - Developed a parametric approach for generating a massive synthetic dataset for quadrupeds 
           - Proposed two novel network architectures for 3D animal pose estimation
